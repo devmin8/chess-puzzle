@@ -2,6 +2,14 @@
 
 Built with SvelteKit, Better Auth, Drizzle, and SQLite.
 
+# License
+
+This project is licensed under the GNU General Public License v3.0 or later
+(GPL-3.0-or-later). See [LICENSE](./LICENSE).
+
+This project uses [Chessground](https://github.com/lichess-org/chessground),
+which is distributed under GPL-3.0-or-later.
+
 # How to run
 
 - Install [portless](https://portless.sh/).
