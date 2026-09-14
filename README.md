@@ -1,5 +1,6 @@
 # Chess Puzzle
 
+A simple chess-coaching app where admins create students, assign puzzles, and track progress.
 Built with SvelteKit, Better Auth, Drizzle, and SQLite.
 
 # License
